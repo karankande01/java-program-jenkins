@@ -10,5 +10,7 @@ public class Main{
 
         Student student = new Student();
         student.sayHello();
+
+        Student student2 = new Student("Hello");
     }
 }
